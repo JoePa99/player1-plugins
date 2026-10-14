@@ -1,0 +1,18 @@
+{
+  "name": "player1",
+  "owner": {
+    "name": "upupdndn",
+    "email": "hello@player1.bio"
+  },
+  "metadata": {
+    "description": "Player 1 for Grok Bot and Cursor",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "player1",
+      "source": "./plugins/player1",
+      "description": "Your own Player 1 file, read live: how you like to be written to, your plans, your people and your routines, one task at a time, with updates you approve in Player 1."
+    }
+  ]
+}

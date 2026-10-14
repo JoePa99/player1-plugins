@@ -1,0 +1,22 @@
+{
+  "name": "player1",
+  "displayName": "Player 1",
+  "version": "1.0.0",
+  "description": "Your own Player 1 file, read live: how you like to be written to, your plans, your people and your routines, one task at a time, with updates you approve in Player 1.",
+  "author": {
+    "name": "upupdndn",
+    "email": "hello@player1.bio",
+    "url": "https://player1.bio"
+  },
+  "homepage": "https://player1.bio",
+  "license": "MIT",
+  "keywords": [
+    "player1",
+    "personal",
+    "memory",
+    "preferences",
+    "context",
+    "grok-bot"
+  ],
+  "logo": "assets/icon.png"
+}
